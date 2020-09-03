@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{F68BB4AF-C3BE-CFB0-8697-E087F95CDDDF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/Scripts/AutomoveCamera.cs">
+    <Files>
+      <File FileName="Assets/Resources/Scripts/SpinGenerator.cs" Line="21" Column="64" />
+      <File FileName="Assets/Resources/Scripts/AutomoveCamera.cs" Line="25" Column="8" />
+      <File FileName="Assets/Resources/Scripts/StarsGenerator.cs" Line="61" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Stars Path" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="819e0a7a-f268-4570-8c31-e825ab937a76" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
